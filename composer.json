@@ -1,0 +1,16 @@
+{
+    "name": "yx/util",
+    "description": "The php utilly Package",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "tw",
+            "email": "tw@pstear.com"
+        }
+    ],  
+    "autoload": {
+        "psr-4": {
+            "Yx\\Util\\": "src"
+        }
+    }
+}
