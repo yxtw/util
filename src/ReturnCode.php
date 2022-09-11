@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 declare (strict_types = 1);
 
-namespace Yx\Util;
+namespace Yun\Util;
 
 class ReturnCode
 {
